@@ -1,0 +1,28 @@
+name: Wingman
+favicon: null
+layout_spectrum: 0.4268428364302963
+typography_spectrum: 0.0935124910902232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.028086012694984674
+  lightness: 0.23911419068463147
+  saturation: 0.07492636679671705
+  rhythmicContrast: 0.8851864361204207
+purpose: []
